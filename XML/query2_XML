@@ -1,0 +1,7 @@
+xquery version "3.1";
+
+for $disease in doc("/db/hematologicDB/Disease.xml")/hematologic/Disease,
+$symtoms in doc("/db/hematologicDB/Symtoms.xml")/hematologic/clinicData
+where $disease/Symptoms_idSymptoms =$symtoms/idSymptoms 
+and contains($symtoms/Otros,"Weight loss")
+return data($disease/Name | $disease/ICD_10)

@@ -1,0 +1,100 @@
+<hematologic>
+
+	<Disease>
+		<idDisease>1</idDisease>
+		<Name>Lymphoid leukaemia</Name>
+		<ICD_10> C91</ICD_10>
+		<Symptoms_idSymptoms>1</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>2</idDisease>
+		<Name>Myeloid leukaemia</Name>
+		<ICD_10>C92</ICD_10>
+		<Symptoms_idSymptoms>2</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>3</idDisease>
+		<Name>Monocytic leukaemia</Name>
+		<ICD_10>C93</ICD_10>
+		<Symptoms_idSymptoms>3</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>4</idDisease>
+		<Name>Iron deficiency anaemia</Name>
+		<ICD_10> D50</ICD_10>
+		<Symptoms_idSymptoms>4</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>5</idDisease>
+		<Name>Vitamin B12 deficiency anaemia</Name>
+		<ICD_10>D51</ICD_10>
+		<Symptoms_idSymptoms>5</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>6</idDisease>
+		<Name>Folate deficiency anaemia</Name>
+		<ICD_10>D52</ICD_10>
+		<Symptoms_idSymptoms>6</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>7</idDisease>
+		<Name>Disseminated intravascular coagulation [defibrination syndrome]</Name>
+		<ICD_10>D65</ICD_10>
+		<Symptoms_idSymptoms>7</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>8</idDisease>
+		<Name>Hereditary factor VIII deficiency</Name>
+		<ICD_10>D66</ICD_10>
+		<Symptoms_idSymptoms>8</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>9</idDisease>
+		<Name>Hereditary factor IX deficiency</Name>
+		<ICD_10>D67</ICD_10>
+		<Symptoms_idSymptoms>9</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>10</idDisease>
+		<Name>Hodgkin lymphoma</Name>
+		<ICD_10> C81</ICD_10>
+		<Symptoms_idSymptoms>10</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>11</idDisease>
+		<Name>Follicular lymphoma</Name>
+		<ICD_10>C82</ICD_10>
+		<Symptoms_idSymptoms>11</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>12</idDisease>
+		<Name>Non-follicular lymphoma</Name>
+		<ICD_10>C83</ICD_10>
+		<Symptoms_idSymptoms>12</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>13</idDisease>
+		<Name>Multiple myeloma</Name>
+		<ICD_10> C90.0</ICD_10>
+		<Symptoms_idSymptoms>13</Symptoms_idSymptoms>
+	</Disease>
+
+	<Disease>
+		<idDisease>14</idDisease>
+		<Name>Thrombocytopenia</Name>
+		<ICD_10> D69.6</ICD_10>
+		<Symptoms_idSymptoms>14</Symptoms_idSymptoms>
+	</Disease>
+</hematologic>

@@ -1,0 +1,7 @@
+xquery version "3.1";
+
+for $disease in doc("/db/hematologicDB/Disease.xml")/hematologic/Disease,
+$protein in doc("/db/hematologicDB/Protein.xml")/hematologic/protein
+where $disease/idDisease =$protein/Disease_idDisease 
+and $disease/ICD_10 = (" C91","C92")
+return data( $protein/Name | $protein/Proteome)

@@ -1,0 +1,250 @@
+<hematologic>
+
+	<gen>
+		<idGenes>1</idGenes>
+		<Symbol>KMT2C</Symbol>
+		<Full_name>lysine methyltransferase 2C</Full_name>
+		<Type>gene with protein product</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000007.14?report=fasta/from=152134925/to=152436642/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>2</idGenes>
+		<Symbol>KMT2A</Symbol>
+		<Full_name>lysine methyltransferase 2A</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000011.10?report=fasta/from=118436492/to=118526832</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>3</idGenes>
+		<Symbol>BCR</Symbol>
+		<Full_name>BCR activator of RhoGEF and GTPase</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000022.11?report=fasta/from=23180509/to=23318037</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>4</idGenes>
+		<Symbol>RUNX1</Symbol>
+		<Full_name>RUNX family transcription factor 1</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000021.9?report=fasta/from=34787801/to=35049334/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>5</idGenes>
+		<Symbol>CBFA2T2</Symbol>
+		<Full_name>CBFA2/RUNX1 partner transcriptional co-repressor 2</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000020.11?report=fasta/from=33490070/to=33650031</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>6</idGenes>
+		<Symbol>KAT6A</Symbol>
+		<Full_name>lysine acetyltransferase 6A</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000008.11?report=fasta/from=41929479/to=42051988/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>7</idGenes>
+		<Symbol>BRD1</Symbol>
+		<Full_name>bromodomain containing 1</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000022.11?report=fasta/from=49773278/to=49827873/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>8</idGenes>
+		<Symbol>TMPRSS6</Symbol>
+		<Full_name>transmembrane serine protease 6</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000022.11?report=fasta/from=37065436/to=37110625/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>9</idGenes>
+		<Symbol>MT-CO1</Symbol>
+		<Full_name>mitochondrially encoded cytochrome c oxidase I</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta/from=5904/to=7445</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>10</idGenes>
+		<Symbol>GLRX5</Symbol>
+		<Full_name>glutaredoxin 5</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000014.9?report=fasta/from=95535050/to=95544714</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>11</idGenes>
+		<Symbol>CUBN</Symbol>
+		<Full_name>cubilin</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000010.11?report=fasta/from=16823966/to=17130492/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>12</idGenes>
+		<Symbol>MTR</Symbol>
+		<Full_name>5-methyltetrahydrofolate-homocysteine methyltransferase</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000001.11?report=fasta/from=236794304/to=236903981</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>13</idGenes>
+		<Symbol>CBLIF</Symbol>
+		<Full_name>cobalamin binding intrinsic factor</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000011.10?report=fasta/from=59829268/to=59845501/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>14</idGenes>
+		<Symbol>SLC46A1</Symbol>
+		<Full_name>solute carrier family 46 member 1</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000017.11?report=fasta/from=28394642/to=28406630/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>15</idGenes>
+		<Symbol>DHFR</Symbol>
+		<Full_name>dihydrofolate reductase</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000005.10?report=fasta/from=80626226/to=80654983/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>16</idGenes>
+		<Symbol>MTRR</Symbol>
+		<Full_name>5-methyltetrahydrofolate-homocysteine methyltransferase reductase</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000005.10?report=fasta/from=7851186/to=7901124</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>17</idGenes>
+		<Symbol>HFE</Symbol>
+		<Full_name>homeostatic iron regulator</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000006.12?report=fasta/from=26087347/to=26098343</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>18</idGenes>
+		<Symbol>ADAMTS13</Symbol>
+		<Full_name>ADAM metallopeptidase with thrombospondin type 1 motif 13</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000009.12?report=fasta/from=133414337/to=133459403</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>19</idGenes>
+		<Symbol>VWF</Symbol>
+		<Full_name>von Willebrand factor</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000012.12?report=fasta/from=5948877/to=6124670/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>20</idGenes>
+		<Symbol>GPI</Symbol>
+		<Full_name>glucose-6-phosphate isomerase</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000019.10?report=fasta/from=34353330/to=34402413</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>21</idGenes>
+		<Symbol>BCL6</Symbol>
+		<Full_name>BCL6 transcription repressor</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000003.12?report=fasta/from=187721377/to=187745472/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>22</idGenes>
+		<Symbol>BCL10</Symbol>
+		<Full_name>BCL10 immune signaling adaptor</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000001.11?report=fasta/from=85265776/to=85276632/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>23</idGenes>
+		<Symbol>ALK</Symbol>
+		<Full_name>ALK receptor tyrosine kinase</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000002.12?report=fasta/from=29190992/to=29921589/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>24</idGenes>
+		<Symbol>KDSR</Symbol>
+		<Full_name>3-ketodihydrosphingosine reductase</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000018.10?report=fasta/from=63327726/to=63367234/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>25</idGenes>
+		<Symbol>EZH2</Symbol>
+		<Full_name>enhancer of zeste 2 polycomb repressive complex 2 subunit</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000007.14?report=fasta/from=148807374/to=148884344/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>26</idGenes>
+		<Symbol>NSD2</Symbol>
+		<Full_name>nuclear receptor binding SET domain protein 2</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000004.12?report=fasta/from=1871393/to=1982207</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>27</idGenes>
+		<Symbol>IRF4</Symbol>
+		<Full_name>interferon regulatory factor 4</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000006.12?report=fasta/from=391752/to=411443</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>28</idGenes>
+		<Symbol>MMTAG2</Symbol>
+		<Full_name>chromosome 1 open reading frame 35</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000001.11?report=fasta/from=228100731/to=228103325/strand=true</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>29</idGenes>
+		<Symbol>GATA1</Symbol>
+		<Full_name>GATA binding protein 1</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000023.11?report=fasta/from=48786590/to=48794311</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>30</idGenes>
+		<Symbol>WAS</Symbol>
+		<Full_name>WASP actin nucleation promoting factor</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000023.11?report=fasta/from=48683753/to=48691427</Link_sequence>
+	</gen>
+
+	<gen>
+		<idGenes>31</idGenes>
+		<Symbol>ITGB3</Symbol>
+		<Full_name>integrin subunit beta 3</Full_name>
+		<Type>protein coding</Type>
+		<Link_sequence>https://www.ncbi.nlm.nih.gov/nuccore/NC_000017.11?report=fasta/from=47253827/to=47313743</Link_sequence>
+	</gen>
+</hematologic>

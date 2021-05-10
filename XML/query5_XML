@@ -1,0 +1,8 @@
+xquery version "3.1";
+
+for $disease in doc("/db/hematologicDB/Disease.xml")/hematologic/Disease,
+$protein in doc("/db/hematologicDB/Protein.xml")/hematologic/protein
+where $disease/idDisease =$protein/Disease_idDisease 
+and contains($protein/Molec_function,"histone")
+order by $disease/ICD_10
+return data($disease/Name | $disease/ICD_10 | $protein/Name | $protein/Sequence)

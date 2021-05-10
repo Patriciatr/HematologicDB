@@ -1,0 +1,8 @@
+xquery version "3.1";
+
+for $protein in doc("/db/hematologicDB/Protein.xml")/hematologic/protein ,
+$genes in doc("/db/hematologicDB/Genes.xml")/hematologic/gen
+where $genes/idGenes =$protein/Genes_idGenes 
+and $genes/Symbol = ('KMT2A','BCL10', 'BCL6', 'HFE')
+order by $protein/Proteome
+return data($protein/Name | $protein/Proteome | $genes/Symbol | $genes/Type )

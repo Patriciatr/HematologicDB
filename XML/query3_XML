@@ -1,0 +1,5 @@
+xquery version "3.1";
+
+for $protein in doc("/db/hematologicDB/Protein.xml")/hematologic/protein
+where $protein/Proteome = ('Chromosome 3','Chromosome 7', 'Chromosome X')
+return data($protein/Name | $protein/Proteome)

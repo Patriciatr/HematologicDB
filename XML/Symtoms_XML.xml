@@ -1,0 +1,156 @@
+<hematologic>
+
+	<clinicData>
+		<idSymptoms>1</idSymptoms>
+		<Pallor>1</Pallor>
+		<Fatigne>1</Fatigne>
+		<Weakness>1</Weakness>
+		<Fever>1</Fever>
+		<Dizziness>0</Dizziness>
+		<Shortness_breath>0</Shortness_breath>
+		<Otros> Weight loss, Headaches</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>2</idSymptoms>
+		<Pallor>1</Pallor>
+		<Fatigne>1</Fatigne>
+		<Weakness>1</Weakness>
+		<Fever>1</Fever>
+		<Dizziness>0</Dizziness>
+		<Shortness_breath>0</Shortness_breath>
+		<Otros> Weight loss, Headaches</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>3</idSymptoms>
+		<Pallor>1</Pallor>
+		<Fatigne>1</Fatigne>
+		<Weakness>1</Weakness>
+		<Fever>1</Fever>
+		<Dizziness>1</Dizziness>
+		<Shortness_breath>0</Shortness_breath>
+		<Otros> Weight loss, Headaches</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>4</idSymptoms>
+		<Pallor>1</Pallor>
+		<Fatigne>0</Fatigne>
+		<Weakness>0</Weakness>
+		<Fever>0</Fever>
+		<Dizziness>1</Dizziness>
+		<Shortness_breath>1</Shortness_breath>
+		<Otros> Bounding pulse, Flow murmurs, Cardiac ventricular hypertrophy</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>5</idSymptoms>
+		<Pallor>1</Pallor>
+		<Fatigne>0</Fatigne>
+		<Weakness>0</Weakness>
+		<Fever>0</Fever>
+		<Dizziness>1</Dizziness>
+		<Shortness_breath>1</Shortness_breath>
+		<Otros> Bounding pulse, Flow murmurs, Cardiac ventricular hypertrophy</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>6</idSymptoms>
+		<Pallor>1</Pallor>
+		<Fatigne>0</Fatigne>
+		<Weakness>0</Weakness>
+		<Fever>0</Fever>
+		<Dizziness>1</Dizziness>
+		<Shortness_breath>1</Shortness_breath>
+		<Otros> Bounding pulse, Flow murmurs, Cardiac ventricular hypertrophy</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>7</idSymptoms>
+		<Pallor>0</Pallor>
+		<Fatigne>0</Fatigne>
+		<Weakness>1</Weakness>
+		<Fever>0</Fever>
+		<Dizziness>1</Dizziness>
+		<Shortness_breath>0</Shortness_breath>
+		<Otros>heavy external bleeding, blood in the urine or stool, double vision, severe head or neck pain, repeated vomiting, difficulty walking, convulsions, or seizures</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>8</idSymptoms>
+		<Pallor>0</Pallor>
+		<Fatigne>0</Fatigne>
+		<Weakness>1</Weakness>
+		<Fever>0</Fever>
+		<Dizziness>1</Dizziness>
+		<Shortness_breath>0</Shortness_breath>
+		<Otros>heavy external bleeding, blood in the urine or stool, double vision, severe head or neck pain, repeated vomiting, difficulty walking, convulsions, or seizures</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>9</idSymptoms>
+		<Pallor>0</Pallor>
+		<Fatigne>0</Fatigne>
+		<Weakness>1</Weakness>
+		<Fever>0</Fever>
+		<Dizziness>1</Dizziness>
+		<Shortness_breath>0</Shortness_breath>
+		<Otros>heavy external bleeding, blood in the urine or stool, double vision, severe head or neck pain, repeated vomiting, difficulty walking, convulsions, or seizures</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>10</idSymptoms>
+		<Pallor>1</Pallor>
+		<Fatigne>1</Fatigne>
+		<Weakness>1</Weakness>
+		<Fever>0</Fever>
+		<Dizziness>0</Dizziness>
+		<Shortness_breath>1</Shortness_breath>
+		<Otros>Night sweats,Weight loss,Itching</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>11</idSymptoms>
+		<Pallor>1</Pallor>
+		<Fatigne>1</Fatigne>
+		<Weakness>1</Weakness>
+		<Fever>0</Fever>
+		<Dizziness>0</Dizziness>
+		<Shortness_breath>1</Shortness_breath>
+		<Otros>Night sweats,Weight loss,Itching</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>12</idSymptoms>
+		<Pallor>1</Pallor>
+		<Fatigne>1</Fatigne>
+		<Weakness>1</Weakness>
+		<Fever>0</Fever>
+		<Dizziness>0</Dizziness>
+		<Shortness_breath>1</Shortness_breath>
+		<Otros>Night sweats,Weight loss,Itching</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>13</idSymptoms>
+		<Pallor>1</Pallor>
+		<Fatigne>1</Fatigne>
+		<Weakness>1</Weakness>
+		<Fever>0</Fever>
+		<Dizziness>0</Dizziness>
+		<Shortness_breath>0</Shortness_breath>
+		<Otros>Bone pain</Otros>
+	</clinicData>
+
+	<clinicData>
+		<idSymptoms>14</idSymptoms>
+		<Pallor>0</Pallor>
+		<Fatigne>0</Fatigne>
+		<Weakness>0</Weakness>
+		<Fever>0</Fever>
+		<Dizziness>0</Dizziness>
+		<Shortness_breath>0</Shortness_breath>
+		<Otros>Null</Otros>
+	</clinicData>
+</hematologic>

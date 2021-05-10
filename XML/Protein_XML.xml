@@ -1,0 +1,470 @@
+<hematologic>
+
+	<protein>
+		<idProtein>1</idProtein>
+		<Name>Histone-lysine N-methyltransferase 2C</Name>
+		<Molec_function>DNA binding,histone binding,histone methyltransferase activity,histone methyltransferase activity, metal ion binding,RNA binding,transcription coactivator activity,transferase activity, transferring acyl groups</Molec_function>
+		<Bio_proces>histone H3-K4 monomethylation,positive regulation of transcription by RNA polymerase II,regulation of megakaryocyte differentiation</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q8NEZ4.fasta</Sequence>
+		<Proteome>Chromosome 7</Proteome>
+		<Genes_idGenes>1</Genes_idGenes>
+		<Disease_idDisease>1</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>1</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>2</idProtein>
+		<Name>Histone-lysine N-methyltransferase 2A</Name>
+		<Molec_function>histone methyltransferase activity (H3-K4 specific), identical protein binding,lysine-acetylated histone binding,minor groove of adenine-thymine-rich DNA binding, protein homodimerization activity, unmethylated CpG binding, zinc ion binding  </Molec_function>
+		<Bio_proces>apoptotic process Source, circadian regulation of gene expression Source, embryonic hemopoiesis Source, histone H3-K4 dimethylation Source, histone H3-K4 methylation Source, histone H3-K4 monomethylation Source, histone H3-K4 trimethylation Source, histone H4-K16 acetylation Source, negative regulation of DNA methylation Source, positive regulation of histone H3-K4 methylation Source, positive regulation of transcription, DNA-templated Source, positive regulation of transcription by RNA polymerase II Source, positive regulation of transporter activity Source, protein-containing complex assembly Source: UniProtKB, regulation of hematopoietic stem cell differentiation Source, regulation of histone H3-K14 acetylation Source, regulation of histone H3-K9 acetylation Source, regulation of megakaryocyte differentiation Source</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q03164.fasta</Sequence>
+		<Proteome>Chromosome 11</Proteome>
+		<Genes_idGenes>2</Genes_idGenes>
+		<Disease_idDisease>1</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>1</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>3</idProtein>
+		<Name>Breakpoint cluster region protein</Name>
+		<Molec_function>ATP binding Source, enzyme binding Source, GTPase activator activity Source, guanyl-nucleotide exchange factor activity Source, protein serine/threonine kinase activity Source, protein serine kinase activity Source, protein threonine kinase activity Source</Molec_function>
+		<Bio_proces>activation of GTPase activity Source, focal adhesion assembly Source, keratinocyte differentiation Source, modulation of chemical synaptic transmission Source, platelet-derived gproteinth factor receptor signaling pathway Source, protein autophosphorylation Source, protein phosphorylation Source, regulation of Rho protein signal transduction Source ,regulation of small GTPase mediated signal transduction Source, signal transduction Source, small GTPase mediated signal transduction</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/P11274.fasta</Sequence>
+		<Proteome>Chromosome 22</Proteome>
+		<Genes_idGenes>3</Genes_idGenes>
+		<Disease_idDisease>1</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>1</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>4</idProtein>
+		<Name>Histone-lysine N-methyltransferase 2A</Name>
+		<Molec_function>histone methyltransferase activity (H3-K4 specific), identical protein binding,lysine-acetylated histone binding,minor groove of adenine-thymine-rich DNA binding, protein homodimerization activity, unmethylated CpG binding, zinc ion binding  </Molec_function>
+		<Bio_proces>apoptotic process Source, circadian regulation of gene expression Source, embryonic hemopoiesis Source, histone H3-K4 dimethylation Source, histone H3-K4 methylation Source, histone H3-K4 monomethylation Source, histone H3-K4 trimethylation Source, histone H4-K16 acetylation Source, negative regulation of DNA methylation Source, positive regulation of histone H3-K4 methylation Source, positive regulation of transcription, DNA-templated Source, positive regulation of transcription by RNA polymerase II Source, positive regulation of transporter activity Source, protein-containing complex assembly Source: UniProtKB, regulation of hematopoietic stem cell differentiation Source, regulation of histone H3-K14 acetylation Source, regulation of histone H3-K9 acetylation Source, regulation of megakaryocyte differentiation Source</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q03164.fasta</Sequence>
+		<Proteome>Chromosome 11</Proteome>
+		<Genes_idGenes>2</Genes_idGenes>
+		<Disease_idDisease>2</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>2</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>5</idProtein>
+		<Name>Runt-related transcription factor 1</Name>
+		<Molec_function>ATP binding Source,calcium ion binding Source, DNA binding Source, DNA-binding transcription activator activity, RNA polymerase II-specific Source, DNA-binding transcription factor activity Source, DNA-binding transcription factor activity, RNA polymerase II-specific Source, prot,in heterodimerization activity Source, protein homodimerization activity Source, RNA polymerase II cis-regulatory region sequence-specific DNA binding Source, RNA polymerase II transcription regulatory region sequence-specific DNA binding Sourcetra, scription factor binding Source, transcription regulatory region sequence-specific DNA binding</Molec_function>
+		<Bio_proces>cardiac muscle tissue regeneration Source, chondrocyte differentiation Source, hematopoietic stem cell proliferation Source, hemopoiesis Source, myeloid cell differentiation Source, myeloid leukocyte differentiation Source, negative regulation of CD4-positive, alpha-beta T cell differentiation Source, negative regulation of gene expression Source, negative regulation of granulocyte differentiation Source, negative regulation of transcription by RNA polymerase II Source, neuron differentiation Source, ossification Source, peripheral nervous system neuron development Source, positive regulation of angiogenesis Source, positive regulation of CD8-positive, alpha-beta T cell differentiation Source, positive regulation of collagen biosynthetic process Source, positive regulation of extracellular matrix organization Source, positive regulation of granulocyte differentiation Source, positive regulation of interleukin-2 production Source, positive regulation of transcription, DNA-templated Source, positive regulation of transcription by RNA polymerase II Source, regulation of B cell receptor signaling pathway Source, regulation of bicellular tight junction assembly Source, regulation of cardiac muscle cell proliferation Source, regulation of cell differentiation Source, regulation of connective tissue replacement Source, regulation of cytokine-mediated signaling pathway Source, regulation of hematopoietic stem cell differentiation Source, regulation of intracellular estrogen receptor signaling pathway Source, regulation of keratinocyte differentiation Source, regulation of megakaryocyte differentiation Source, regulation of myeloid cell differentiation Source, regulation of plasminogen activation Source, regulation of regulatory T cell differentiation Source,regulation of transcription by RNA polymerase II Source,regulation of Wnt signaling pathway</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q01196.fasta</Sequence>
+		<Proteome>Chromosome 21</Proteome>
+		<Genes_idGenes>4</Genes_idGenes>
+		<Disease_idDisease>2</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>2</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>6</idProtein>
+		<Name>Protein CBFA2T2</Name>
+		<Molec_function>metal ion binding, transcription corepressor activity</Molec_function>
+		<Bio_proces>intestinal epithelial cell differentiation Source, negative regulation of neuron projection development Source, negative regulation of Notch signaling pathway Source, negative regulation of transcription, DNA-templated Source, negative regulation of transcription by RNA polymerase II Source, positive regulation of neuron projection development Source, transcription, DNA-templated</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/O43439.fasta</Sequence>
+		<Proteome>Chromosome 20</Proteome>
+		<Genes_idGenes>5</Genes_idGenes>
+		<Disease_idDisease>2</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>2</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>7</idProtein>
+		<Name>Histone acetyltransferase KAT6A</Name>
+		<Molec_function>acetyltransferase activity Source, DNA binding Source, histone acetyltransferase activity Source, histone binding Source, transcription coactivator activity Source, transcription coregulator activity Source, transcription factor binding Source, zinc ion binding</Molec_function>
+		<Bio_proces>cellular senescence Source, DNA packaging Source, histone acetylation Source, histone H3 acetylation Source, myeloid cell differentiation Source, negative regulation of transcription, DNA-templated Source, nucleosome assembly Source, positive regulation of transcription, DNA-templated Source, positive regulation of transcription by RNA polymerase II Source, protein acetylation Source, regulation of signal transduction by p53 class mediator</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q92794.fasta</Sequence>
+		<Proteome>Chromosome 8</Proteome>
+		<Genes_idGenes>6</Genes_idGenes>
+		<Disease_idDisease>3</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>3</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>7</idProtein>
+		<Name>Bromodomain-containing protein 1</Name>
+		<Molec_function>histone binding, metal ion binding</Molec_function>
+		<Bio_proces>erythrocyte maturation Source, histone H3 acetylation Source, histone H3-K14 acetylation Source, histone H3-K23 acetylation Source, positive regulation of erythrocyte differentiation Source, response to electrical stimulus Source, response to immobilization stress</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/O95696.fasta</Sequence>
+		<Proteome>Chromosome 22</Proteome>
+		<Genes_idGenes>7</Genes_idGenes>
+		<Disease_idDisease>3</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>3</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>8</idProtein>
+		<Name>Runt-related transcription factor 1</Name>
+		<Molec_function>ATP binding Source,calcium ion binding Source, DNA binding Source, DNA-binding transcription activator activity, RNA polymerase II-specific Source, DNA-binding transcription factor activity Source, DNA-binding transcription factor activity, RNA polymerase II-specific Source, prot,in heterodimerization activity Source, protein homodimerization activity Source, RNA polymerase II cis-regulatory region sequence-specific DNA binding Source, RNA polymerase II transcription regulatory region sequence-specific DNA binding Sourcetra, scription factor binding Source, transcription regulatory region sequence-specific DNA binding</Molec_function>
+		<Bio_proces>cardiac muscle tissue regeneration Source, chondrocyte differentiation Source, hematopoietic stem cell proliferation Source, hemopoiesis Source, myeloid cell differentiation Source, myeloid leukocyte differentiation Source, negative regulation of CD4-positive, alpha-beta T cell differentiation Source, negative regulation of gene expression Source, negative regulation of granulocyte differentiation Source, negative regulation of transcription by RNA polymerase II Source, neuron differentiation Source, ossification Source, peripheral nervous system neuron development Source, positive regulation of angiogenesis Source, positive regulation of CD8-positive, alpha-beta T cell differentiation Source, positive regulation of collagen biosynthetic process Source, positive regulation of extracellular matrix organization Source, positive regulation of granulocyte differentiation Source, positive regulation of interleukin-2 production Source, positive regulation of transcription, DNA-templated Source, positive regulation of transcription by RNA polymerase II Source, regulation of B cell receptor signaling pathway Source, regulation of bicellular tight junction assembly Source, regulation of cardiac muscle cell proliferation Source, regulation of cell differentiation Source, regulation of connective tissue replacement Source, regulation of cytokine-mediated signaling pathway Source, regulation of hematopoietic stem cell differentiation Source, regulation of intracellular estrogen receptor signaling pathway Source, regulation of keratinocyte differentiation Source, regulation of megakaryocyte differentiation Source, regulation of myeloid cell differentiation Source, regulation of plasminogen activation Source, regulation of regulatory T cell differentiation Source,regulation of transcription by RNA polymerase II Source,regulation of Wnt signaling pathway</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q01196.fasta</Sequence>
+		<Proteome>Chromosome 21</Proteome>
+		<Genes_idGenes>4</Genes_idGenes>
+		<Disease_idDisease>3</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>3</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>8</idProtein>
+		<Name>Transmembrane protease serine 6</Name>
+		<Molec_function>serine-type endopeptidase activity</Molec_function>
+		<Bio_proces>cellular iron ion homeostasis Source, collagen catabolic process Source, extracellular matrix disassembly Source, iron ion homeostasis Source, membrane protein proteolysis Source, negative regulation of BMP signaling pathway Source, negative regulation of transcription, DNA-templated Source, negative regulation of transcription by RNA polymerase II Source, positive regulation of transcription by RNA polymerase II Source, self proteolysis</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q8IU80.fasta</Sequence>
+		<Proteome>Chromosome 22</Proteome>
+		<Genes_idGenes>8</Genes_idGenes>
+		<Disease_idDisease>4</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>4</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>9</idProtein>
+		<Name>Cytochrome c oxidase subunit 1</Name>
+		<Molec_function>cytochrome-c oxidase activity, heme binding, metal ion binding</Molec_function>
+		<Bio_proces>aerobic respiration Source, aging Source, cerebellum development Source, electron transport coupled proton transport Source, mitochondrial electron transport, cytochrome c to oxygen Source, respiratory electron transport chain Source, response to copper ion Source, response to electrical stimulus Source, response to oxidative stress</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/P00395.fasta</Sequence>
+		<Proteome>Mitochondrion</Proteome>
+		<Genes_idGenes>9</Genes_idGenes>
+		<Disease_idDisease>4</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>4</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>10</idProtein>
+		<Name>Glutaredoxin-related protein 5, mitochondrial</Name>
+		<Molec_function>2 iron, 2 sulfur cluster binding Source, metal ion binding Source, protein disulfide oxidoreductase activity</Molec_function>
+		<Bio_proces>[2Fe-2S] cluster assembly Source, hemopoiesis Source, iron-sulfur cluster assembly Source, protein maturation by [2Fe-2S] cluster transfer Source, protein maturation by [4Fe-4S] cluster transfer</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q86SX6.fasta</Sequence>
+		<Proteome>Chromosome 14</Proteome>
+		<Genes_idGenes>10</Genes_idGenes>
+		<Disease_idDisease>4</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>4</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>11</idProtein>
+		<Name>Cubilin</Name>
+		<Molec_function>calcium ion binding Source, cargo receptor activity Source, cobalamin binding Source, protein homodimerization activity Source, signaling receptor activity</Molec_function>
+		<Bio_proces>cholesterol metabolic process Source,cobalamin metabolic process Source, cobalamin transport Source, high-density lipoprotein particle clearance Source, lipoprotein transport Source, receptor-mediated endocytosis Source, response to bacterium Source, tissue homeostasis Source, vitamin D metabolic process</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/O60494.fasta</Sequence>
+		<Proteome>Chromosome 10</Proteome>
+		<Genes_idGenes>11</Genes_idGenes>
+		<Disease_idDisease>5</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>5</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>12</idProtein>
+		<Name>Methionine synthase</Name>
+		<Molec_function>cobalamin binding Source, methionine synthase activity Source, zinc ion binding</Molec_function>
+		<Bio_proces>axon regeneration Source,cellular response to nitric oxide Source ,cobalamin metabolic process Source, methionine biosynthetic process Source, methylation Source, nervous system development Source, pteridine-containing compound metabolic process Source, response to axon injury Source, sulfur amino acid metabolic process</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q99707.fasta</Sequence>
+		<Proteome>Chromosome 1</Proteome>
+		<Genes_idGenes>12</Genes_idGenes>
+		<Disease_idDisease>5</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>5</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>13</idProtein>
+		<Name>Cobalamin binding intrinsic factor</Name>
+		<Molec_function>cobalamin binding</Molec_function>
+		<Bio_proces>cobalamin metabolic process Source, cobalamin transport Source, cobalt ion transport</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/P27352.fasta</Sequence>
+		<Proteome>Chromosome 11</Proteome>
+		<Genes_idGenes>13</Genes_idGenes>
+		<Disease_idDisease>5</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>5</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>14</idProtein>
+		<Name>Proton-coupled folate transporter</Name>
+		<Molec_function>folic acid binding, folic acid transmembrane transporter activity</Molec_function>
+		<Bio_proces>cellular iron ion homeostasis, folate import across plasma membrane</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q96NT5.fasta</Sequence>
+		<Proteome>Chromosome 17</Proteome>
+		<Genes_idGenes>14</Genes_idGenes>
+		<Disease_idDisease>6</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>6</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>15</idProtein>
+		<Name>Dihydrofolate reductase</Name>
+		<Molec_function>dihydrofolate reductase activity,drug binding</Molec_function>
+		<Bio_proces>axon regeneration, dihydrofolate metabolic process</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/P00374.fasta</Sequence>
+		<Proteome>Chromosome 5</Proteome>
+		<Genes_idGenes>15</Genes_idGenes>
+		<Disease_idDisease>6</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>6</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>16</idProtein>
+		<Name>Methionine synthase reductase</Name>
+		<Molec_function>[methionine synthase] reductase activity,aquacobalamin reductase (NADPH) activity</Molec_function>
+		<Bio_proces>cobalamin metabolic process,DNA methylation</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q9UBK8.fasta</Sequence>
+		<Proteome>Chromosome 5</Proteome>
+		<Genes_idGenes>16</Genes_idGenes>
+		<Disease_idDisease>6</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>6</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>19</idProtein>
+		<Name>Hereditary hemochromatosis protein</Name>
+		<Molec_function>beta-2-microglobulin binding, co-receptor binding</Molec_function>
+		<Bio_proces>acute-phase response, BMP signaling pathway</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q30201.fasta</Sequence>
+		<Proteome>Chromosome 6</Proteome>
+		<Genes_idGenes>17</Genes_idGenes>
+		<Disease_idDisease>8</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>8</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>20</idProtein>
+		<Name>A disintegrin and metalloproteinase with thrombospondin motifs 13</Name>
+		<Molec_function>calcium ion binding,integrin binding</Molec_function>
+		<Bio_proces>cell-matrix adhesion, cellular response to interferon-gamma</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q76LX8.fasta</Sequence>
+		<Proteome>Chromosome 9</Proteome>
+		<Genes_idGenes>18</Genes_idGenes>
+		<Disease_idDisease>8</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>8</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>21</idProtein>
+		<Name>von Willebrand factor</Name>
+		<Molec_function>chaperone binding, collagen binding</Molec_function>
+		<Bio_proces>blood coagulation, blood coagulation, intrinsic pathway</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/P04275.fasta</Sequence>
+		<Proteome>Chromosome 12</Proteome>
+		<Genes_idGenes>19</Genes_idGenes>
+		<Disease_idDisease>8</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>8</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>22</idProtein>
+		<Name>Hereditary hemochromatosis protein</Name>
+		<Molec_function>beta-2-microglobulin binding, co-receptor binding</Molec_function>
+		<Bio_proces>acute-phase response, BMP signaling pathway</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q30201.fasta</Sequence>
+		<Proteome>Chromosome 6</Proteome>
+		<Genes_idGenes>17</Genes_idGenes>
+		<Disease_idDisease>9</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>9</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>23</idProtein>
+		<Name>Glucose-6-phosphate isomerase</Name>
+		<Molec_function>cytokine activity, glucose-6-phosphate isomerase activity</Molec_function>
+		<Bio_proces>canonical glycolysis, carbohydrate metabolic process</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/P06744.fasta</Sequence>
+		<Proteome>Chromosome 19</Proteome>
+		<Genes_idGenes>20</Genes_idGenes>
+		<Disease_idDisease>9</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>9</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>24</idProtein>
+		<Name>A disintegrin and metalloproteinase with thrombospondin motifs 13</Name>
+		<Molec_function>calcium ion binding,integrin binding</Molec_function>
+		<Bio_proces>cell-matrix adhesion, cellular response to interferon-gamma</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q76LX8.fasta</Sequence>
+		<Proteome>Chromosome 9</Proteome>
+		<Genes_idGenes>18</Genes_idGenes>
+		<Disease_idDisease>9</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>9</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>25</idProtein>
+		<Name>B-cell lymphoma 6 protein</Name>
+		<Molec_function>chromatin binding, chromatin DNA binding</Molec_function>
+		<Bio_proces>actin cytoskeleton organization, B cell differentiation</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/P41182.fasta</Sequence>
+		<Proteome>Chromosome 3</Proteome>
+		<Genes_idGenes>21</Genes_idGenes>
+		<Disease_idDisease>10</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>10</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>26</idProtein>
+		<Name>B-cell lymphoma/leukemia 10</Name>
+		<Molec_function>CARD domain binding, enzyme binding</Molec_function>
+		<Bio_proces>adaptive immune response, B cell apoptotic process</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/O95999.fasta</Sequence>
+		<Proteome>Chromosome 1</Proteome>
+		<Genes_idGenes>22</Genes_idGenes>
+		<Disease_idDisease>10</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>10</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>27</idProtein>
+		<Name>B-cell lymphoma 6 protein</Name>
+		<Molec_function>chromatin binding, chromatin DNA binding</Molec_function>
+		<Bio_proces>actin cytoskeleton organization, B cell differentiation</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/P41182.fasta</Sequence>
+		<Proteome>Chromosome 3</Proteome>
+		<Genes_idGenes>21</Genes_idGenes>
+		<Disease_idDisease>11</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>11</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>27</idProtein>
+		<Name>ALK tyrosine kinase receptor</Name>
+		<Molec_function>ATP binding, identical protein binding</Molec_function>
+		<Bio_proces>activation of MAPK activity, adult behavior</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q9UM73.fasta</Sequence>
+		<Proteome>Chromosome 2</Proteome>
+		<Genes_idGenes>23</Genes_idGenes>
+		<Disease_idDisease>10</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>10</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>28</idProtein>
+		<Name>B-cell lymphoma/leukemia 10</Name>
+		<Molec_function>CARD domain binding, enzyme binding</Molec_function>
+		<Bio_proces>adaptive immune response, B cell apoptotic process</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/O95999.fasta</Sequence>
+		<Proteome>Chromosome 1</Proteome>
+		<Genes_idGenes>22</Genes_idGenes>
+		<Disease_idDisease>11</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>11</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>28</idProtein>
+		<Name>3-ketodihydrosphingosine reductase</Name>
+		<Molec_function>3-dehydrosphinganine reductase activity</Molec_function>
+		<Bio_proces>3-keto-sphinganine metabolic process, sphingolipid biosynthetic process</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q06136.fasta</Sequence>
+		<Proteome>Chromosome 18</Proteome>
+		<Genes_idGenes>24</Genes_idGenes>
+		<Disease_idDisease>11</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>11</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>29</idProtein>
+		<Name>Histone-lysine N-methyltransferase EZH2</Name>
+		<Molec_function>chromatin binding, chromatin DNA binding, histone-lysine N-methyltransferase activity</Molec_function>
+		<Bio_proces>B cell differentiation, cardiac muscle hypertrophy in response to stress</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q15910.fasta</Sequence>
+		<Proteome>Chromosome 7</Proteome>
+		<Genes_idGenes>25</Genes_idGenes>
+		<Disease_idDisease>12</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>12</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>30</idProtein>
+		<Name>B-cell lymphoma 6 protein</Name>
+		<Molec_function>chromatin binding, chromatin DNA binding</Molec_function>
+		<Bio_proces>actin cytoskeleton organization, B cell differentiation</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/P41182.fasta</Sequence>
+		<Proteome>Chromosome 3</Proteome>
+		<Genes_idGenes>21</Genes_idGenes>
+		<Disease_idDisease>12</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>12</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>31</idProtein>
+		<Name>B-cell lymphoma/leukemia 10</Name>
+		<Molec_function>CARD domain binding, enzyme binding</Molec_function>
+		<Bio_proces>adaptive immune response, B cell apoptotic process</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/O95999.fasta</Sequence>
+		<Proteome>Chromosome 1</Proteome>
+		<Genes_idGenes>22</Genes_idGenes>
+		<Disease_idDisease>12</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>12</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>32</idProtein>
+		<Name>Histone-lysine N-methyltransferase NSD2</Name>
+		<Molec_function>chromatin binding, histone methyltransferase activity (H3-K36 specific)</Molec_function>
+		<Bio_proces>atrial septum primum morphogenesis, atrial septum secundum morphogenesis</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/O96028.fasta</Sequence>
+		<Proteome>Chromosome 4</Proteome>
+		<Genes_idGenes>26</Genes_idGenes>
+		<Disease_idDisease>13</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>13</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>33</idProtein>
+		<Name>Interferon regulatory factor 4</Name>
+		<Molec_function>DNA-binding transcription activator activity, RNA polymerase II-specific, DNA-binding transcription factor activity</Molec_function>
+		<Bio_proces>cytokine-mediated signaling pathway, defense response to protozoan</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q15306.fasta</Sequence>
+		<Proteome>Chromosome 6</Proteome>
+		<Genes_idGenes>27</Genes_idGenes>
+		<Disease_idDisease>13</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>13</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>34</idProtein>
+		<Name>Multiple myeloma tumor-associated protein 2</Name>
+		<Molec_function>RNA binding</Molec_function>
+		<Bio_proces>neutrophil degranulation</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/Q9BU76.fasta</Sequence>
+		<Proteome>Chromosome 1</Proteome>
+		<Genes_idGenes>28</Genes_idGenes>
+		<Disease_idDisease>13</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>13</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>35</idProtein>
+		<Name>Erythroid transcription factor</Name>
+		<Molec_function>C2H2 zinc finger domain binding, chromatin DNA binding</Molec_function>
+		<Bio_proces>basophil differentiation,blood coagulation</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/P15976.fasta</Sequence>
+		<Proteome>Chromosome X</Proteome>
+		<Genes_idGenes>29</Genes_idGenes>
+		<Disease_idDisease>14</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>14</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>36</idProtein>
+		<Name>Wiskott-Aldrich syndrome protein</Name>
+		<Molec_function>actin binding, GTPase regulator activity</Molec_function>
+		<Bio_proces>actin filament-based movement, actin filament polymerization</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/P42768.fasta</Sequence>
+		<Proteome>Chromosome X</Proteome>
+		<Genes_idGenes>30</Genes_idGenes>
+		<Disease_idDisease>14</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>14</Disease_Symptoms_idSymptoms>
+	</protein>
+
+	<protein>
+		<idProtein>37</idProtein>
+		<Name>Integrin beta-3</Name>
+		<Molec_function>cell adhesion molecule binding, coreceptor activity</Molec_function>
+		<Bio_proces>activation of protein kinase activity, angiogenesis involved in wound healing</Bio_proces>
+		<Sequence>https://www.uniprot.org/uniprot/P05106.fasta</Sequence>
+		<Proteome>Chromosome 17</Proteome>
+		<Genes_idGenes>31</Genes_idGenes>
+		<Disease_idDisease>14</Disease_idDisease>
+		<Disease_Symptoms_idSymptoms>14</Disease_Symptoms_idSymptoms>
+	</protein>
+</hematologic>
