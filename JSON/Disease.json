@@ -1,0 +1,210 @@
+[
+	{
+		"idDisease" : 1,
+		"Name" : "Lymphoid leukaemia",
+		"ICD_10" : " C91",
+		"Symptoms_idSymptoms" : {"idSymptoms" : 1,
+					"Pallor" : 1,
+					"Fatigne" : 1,
+					"Weakness" : 1,
+					"Fever" : 1,
+					"Dizziness" : 0,
+					"Shortness_breath" : 0,
+					"Otros" : " Weight loss Headaches"}
+	},
+	{
+		"idDisease" : 2,
+		"Name" : "Myeloid leukaemia",
+		"ICD_10" : "C92",
+		"Symptoms_idSymptoms" :{
+		"idSymptoms" : 2,
+		"Pallor" : 1,
+		"Fatigne" : 1,
+		"Weakness" : 1,
+		"Fever" : 1,
+		"Dizziness" : 0,
+		"Shortness_breath" : 0,
+		"Otros" : " Weight loss, Headaches"
+	}
+	},
+	{
+		"idDisease" : 3,
+		"Name" : "Monocytic leukaemia",
+		"ICD_10" : "C93",
+		"Symptoms_idSymptoms" : {
+		"idSymptoms" : 3,
+		"Pallor" : 1,
+		"Fatigne" : 1,
+		"Weakness" : 1,
+		"Fever" : 1,
+		"Dizziness" : 1,
+		"Shortness_breath" : 0,
+		"Otros" : " Weight loss, Headaches"
+	}
+	},
+	{
+		"idDisease" : 4,
+		"Name" : "Iron deficiency anaemia",
+		"ICD_10" : " D50",
+		"Symptoms_idSymptoms" : {
+		"idSymptoms" : 4,
+		"Pallor" : 1,
+		"Fatigne" : 0,
+		"Weakness" : 0,
+		"Fever" : 0,
+		"Dizziness" : 1,
+		"Shortness_breath" : 1,
+		"Otros" : " Bounding pulse, Flow murmurs, Cardiac ventricular hypertrophy"
+	}
+	},
+	{
+		"idDisease" : 5,
+		"Name" : "Vitamin B12 deficiency anaemia",
+		"ICD_10" : "D51",
+		"Symptoms_idSymptoms" : {
+		"idSymptoms" : 5,
+		"Pallor" : 1,
+		"Fatigne" : 0,
+		"Weakness" : 0,
+		"Fever" : 0,
+		"Dizziness" : 1,
+		"Shortness_breath" : 1,
+		"Otros" : " Bounding pulse, Flow murmurs, Cardiac ventricular hypertrophy"
+	}
+	},
+	{
+		"idDisease" : 6,
+		"Name" : "Folate deficiency anaemia",
+		"ICD_10" : "D52",
+		"Symptoms_idSymptoms" : {
+		"idSymptoms" : 6,
+		"Pallor" : 1,
+		"Fatigne" : 0,
+		"Weakness" : 0,
+		"Fever" : 0,
+		"Dizziness" : 1,
+		"Shortness_breath" : 1,
+		"Otros" : " Bounding pulse, Flow murmurs, Cardiac ventricular hypertrophy"
+	}
+	},
+	{
+		"idDisease" : 7,
+		"Name" : "Disseminated intravascular coagulation [defibrination syndrome]",
+		"ICD_10" : "D65",
+		"Symptoms_idSymptoms" : {
+		"idSymptoms" : 7,
+		"Pallor" : 0,
+		"Fatigne" : 0,
+		"Weakness" : 1,
+		"Fever" : 0,
+		"Dizziness" : 1,
+		"Shortness_breath" : 0,
+		"Otros" : "heavy external bleeding, blood in the urine or stool, double vision, severe head or neck pain, repeated vomiting, difficulty walking, convulsions, or seizures"
+	}
+	},
+	{
+		"idDisease" : 8,
+		"Name" : "Hereditary factor VIII deficiency",
+		"ICD_10" : "D66",
+		"Symptoms_idSymptoms" : {
+		"idSymptoms" : 8,
+		"Pallor" : 0,
+		"Fatigne" : 0,
+		"Weakness" : 1,
+		"Fever" : 0,
+		"Dizziness" : 1,
+		"Shortness_breath" : 0,
+		"Otros" : "heavy external bleeding, blood in the urine or stool, double vision, severe head or neck pain, repeated vomiting, difficulty walking, convulsions, or seizures"
+	}
+	},
+	{
+		"idDisease" : 9,
+		"Name" : "Hereditary factor IX deficiency",
+		"ICD_10" : "D67",
+		"Symptoms_idSymptoms" : {
+		"idSymptoms" : 9,
+		"Pallor" : 0,
+		"Fatigne" : 0,
+		"Weakness" : 1,
+		"Fever" : 0,
+		"Dizziness" : 1,
+		"Shortness_breath" : 0,
+		"Otros" : "heavy external bleeding, blood in the urine or stool, double vision, severe head or neck pain, repeated vomiting, difficulty walking, convulsions, or seizures"
+	}
+	},
+	{
+		"idDisease" : 10,
+		"Name" : "Hodgkin lymphoma",
+		"ICD_10" : " C81",
+		"Symptoms_idSymptoms" : {
+		"idSymptoms" : 10,
+		"Pallor" : 1,
+		"Fatigne" : 1,
+		"Weakness" : 1,
+		"Fever" : 0,
+		"Dizziness" : 0,
+		"Shortness_breath" : 1,
+		"Otros" : "Night sweats,Weight loss,Itching"
+	}
+	},
+	{
+		"idDisease" : 11,
+		"Name" : "Follicular lymphoma",
+		"ICD_10" : "C82",
+		"Symptoms_idSymptoms" : {
+		"idSymptoms" : 11,
+		"Pallor" : 1,
+		"Fatigne" : 1,
+		"Weakness" : 1,
+		"Fever" : 0,
+		"Dizziness" : 0,
+		"Shortness_breath" : 1,
+		"Otros" : "Night sweats,Weight loss,Itching"
+	}
+	},
+	{
+		"idDisease" : 12,
+		"Name" : "Non-follicular lymphoma",
+		"ICD_10" : "C83",
+		"Symptoms_idSymptoms" : {
+		"idSymptoms" : 12,
+		"Pallor" : 1,
+		"Fatigne" : 1,
+		"Weakness" : 1,
+		"Fever" : 0,
+		"Dizziness" : 0,
+		"Shortness_breath" : 1,
+		"Otros" : "Night sweats,Weight loss,Itching"
+	}
+	},
+	{
+		"idDisease" : 13,
+		"Name" : "Multiple myeloma",
+		"ICD_10" : " C90.0",
+		"Symptoms_idSymptoms" : {
+		"idSymptoms" : 13,
+		"Pallor" : 1,
+		"Fatigne" : 1,
+		"Weakness" : 1,
+		"Fever" : 0,
+		"Dizziness" : 0,
+		"Shortness_breath" : 0,
+		"Otros" : "Bone pain"
+	}
+	},
+	{
+		"idDisease" : 14,
+		"Name" : "Thrombocytopenia",
+		"ICD_10" : " D69.6",
+		"Symptoms_idSymptoms" : {
+		"idSymptoms" : 14,
+		"Pallor" : 0,
+		"Fatigne" : 0,
+		"Weakness" : 0,
+		"Fever" : 0,
+		"Dizziness" : 0,
+		"Shortness_breath" : 0,
+		"Otros" : "Null"
+	}
+	}
+]

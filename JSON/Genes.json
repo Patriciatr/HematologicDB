@@ -1,0 +1,219 @@
+[
+	{
+		"idGenes" : 1,
+		"Gen_Symbol" : "KMT2C",
+		"Gen_Name" : "lysine methyltransferase 2C",
+		"Type" : "gene with protein product",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000007.14?report=fasta&from=152134925&to=152436642&strand=true"
+	},
+	{
+		"idGenes" : 2,
+		"Gen_Symbol" : "KMT2A",
+		"Gen_Name" : "lysine methyltransferase 2A",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000011.10?report=fasta&from=118436492&to=118526832"
+	},
+	{
+		"idGenes" : 3,
+		"Gen_Symbol" : "BCR",
+		"Gen_Name" : "BCR activator of RhoGEF and GTPase",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000022.11?report=fasta&from=23180509&to=23318037"
+	},
+	{
+		"idGenes" : 4,
+		"Gen_Symbol" : "RUNX1",
+		"Gen_Name" : "RUNX family transcription factor 1",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000021.9?report=fasta&from=34787801&to=35049334&strand=true"
+	},
+	{
+		"idGenes" : 5,
+		"Gen_Symbol" : "CBFA2T2",
+		"Gen_Name" : "CBFA2/RUNX1 partner transcriptional co-repressor 2",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000020.11?report=fasta&from=33490070&to=33650031"
+	},
+	{
+		"idGenes" : 6,
+		"Gen_Symbol" : "KAT6A",
+		"Gen_Name" : "lysine acetyltransferase 6A",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000008.11?report=fasta&from=41929479&to=42051988&strand=true"
+	},
+	{
+		"idGenes" : 7,
+		"Gen_Symbol" : "BRD1",
+		"Gen_Name" : "bromodomain containing 1",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000022.11?report=fasta&from=49773278&to=49827873&strand=true"
+	},
+	{
+		"idGenes" : 8,
+		"Gen_Symbol" : "TMPRSS6",
+		"Gen_Name" : "transmembrane serine protease 6",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000022.11?report=fasta&from=37065436&to=37110625&strand=true"
+	},
+	{
+		"idGenes" : 9,
+		"Gen_Symbol" : "MT-CO1",
+		"Gen_Name" : "mitochondrially encoded cytochrome c oxidase I",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta&from=5904&to=7445"
+	},
+	{
+		"idGenes" : 10,
+		"Gen_Symbol" : "GLRX5",
+		"Gen_Name" : "glutaredoxin 5",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000014.9?report=fasta&from=95535050&to=95544714"
+	},
+	{
+		"idGenes" : 11,
+		"Gen_Symbol" : "CUBN",
+		"Gen_Name" : "cubilin",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000010.11?report=fasta&from=16823966&to=17130492&strand=true"
+	},
+	{
+		"idGenes" : 12,
+		"Gen_Symbol" : "MTR",
+		"Gen_Name" : "5-methyltetrahydrofolate-homocysteine methyltransferase",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000001.11?report=fasta&from=236794304&to=236903981"
+	},
+	{
+		"idGenes" : 13,
+		"Gen_Symbol" : "CBLIF",
+		"Gen_Name" : "cobalamin binding intrinsic factor",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000011.10?report=fasta&from=59829268&to=59845501&strand=true"
+	},
+	{
+		"idGenes" : 14,
+		"Gen_Symbol" : "SLC46A1",
+		"Gen_Name" : "solute carrier family 46 member 1",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000017.11?report=fasta&from=28394642&to=28406630&strand=true"
+	},
+	{
+		"idGenes" : 15,
+		"Gen_Symbol" : "DHFR",
+		"Gen_Name" : "dihydrofolate reductase",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000005.10?report=fasta&from=80626226&to=80654983&strand=true"
+	},
+	{
+		"idGenes" : 16,
+		"Gen_Symbol" : "MTRR",
+		"Gen_Name" : "5-methyltetrahydrofolate-homocysteine methyltransferase reductase",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000005.10?report=fasta&from=7851186&to=7901124"
+	},
+	{
+		"idGenes" : 17,
+		"Gen_Symbol" : "HFE",
+		"Gen_Name" : "homeostatic iron regulator",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000006.12?report=fasta&from=26087347&to=26098343"
+	},
+	{
+		"idGenes" : 18,
+		"Gen_Symbol" : "ADAMTS13",
+		"Gen_Name" : "ADAM metallopeptidase with thrombospondin type 1 motif 13",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000009.12?report=fasta&from=133414337&to=133459403"
+	},
+	{
+		"idGenes" : 19,
+		"Gen_Symbol" : "VWF",
+		"Gen_Name" : "von Willebrand factor",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000012.12?report=fasta&from=5948877&to=6124670&strand=true"
+	},
+	{
+		"idGenes" : 20,
+		"Gen_Symbol" : "GPI",
+		"Gen_Name" : "glucose-6-phosphate isomerase",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000019.10?report=fasta&from=34353330&to=34402413"
+	},
+	{
+		"idGenes" : 21,
+		"Gen_Symbol" : "BCL6",
+		"Gen_Name" : "BCL6 transcription repressor",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000003.12?report=fasta&from=187721377&to=187745472&strand=true"
+	},
+	{
+		"idGenes" : 22,
+		"Gen_Symbol" : "BCL10",
+		"Gen_Name" : "BCL10 immune signaling adaptor",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000001.11?report=fasta&from=85265776&to=85276632&strand=true"
+	},
+	{
+		"idGenes" : 23,
+		"Gen_Symbol" : "ALK",
+		"Gen_Name" : "ALK receptor tyrosine kinase",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000002.12?report=fasta&from=29190992&to=29921589&strand=true"
+	},
+	{
+		"idGenes" : 24,
+		"Gen_Symbol" : "KDSR",
+		"Gen_Name" : "3-ketodihydrosphingosine reductase",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000018.10?report=fasta&from=63327726&to=63367234&strand=true"
+	},
+	{
+		"idGenes" : 25,
+		"Gen_Symbol" : "EZH2",
+		"Gen_Name" : "enhancer of zeste 2 polycomb repressive complex 2 subunit",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000007.14?report=fasta&from=148807374&to=148884344&strand=true"
+	},
+	{
+		"idGenes" : 26,
+		"Gen_Symbol" : "NSD2",
+		"Gen_Name" : "nuclear receptor binding SET domain protein 2",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000004.12?report=fasta&from=1871393&to=1982207"
+	},
+	{
+		"idGenes" : 27,
+		"Gen_Symbol" : "IRF4",
+		"Gen_Name" : "interferon regulatory factor 4",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000006.12?report=fasta&from=391752&to=411443"
+	},
+	{
+		"idGenes" : 28,
+		"Gen_Symbol" : "MMTAG2",
+		"Gen_Name" : "chromosome 1 open reading frame 35",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000001.11?report=fasta&from=228100731&to=228103325&strand=true"
+	},
+	{
+		"idGenes" : 29,
+		"Gen_Symbol" : "GATA1",
+		"Gen_Name" : "GATA binding protein 1",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000023.11?report=fasta&from=48786590&to=48794311"
+	},
+	{
+		"idGenes" : 30,
+		"Gen_Symbol" : "WAS",
+		"Gen_Name" : "WASP actin nucleation promoting factor",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000023.11?report=fasta&from=48683753&to=48691427"
+	},
+	{
+		"idGenes" : 31,
+		"Gen_Symbol" : "ITGB3",
+		"Gen_Name" : "integrin subunit beta 3",
+		"Type" : "protein coding",
+		"Link_sequence" : "https://www.ncbi.nlm.nih.gov/nuccore/NC_000017.11?report=fasta&from=47253827&to=47313743"
+	}
+]

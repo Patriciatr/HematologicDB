@@ -1,0 +1,470 @@
+[
+	{
+		"idProtein" : 1,
+		"Name" : "Histone-lysine N-methyltransferase 2C",
+		"Molec_function" : "DNA binding,histone binding,histone methyltransferase activity,histone methyltransferase activity, metal ion binding,RNA binding,transcription coactivator activity,transferase activity, transferring acyl groups",
+		"Bio_proces" : "histone H3-K4 monomethylation,positive regulation of transcription by RNA polymerase II,regulation of megakaryocyte differentiation",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q8NEZ4.fasta",
+		"Proteome" : "Chromosome 7",
+		"Gen_Symbol" : "KMT2C",
+		"Gen_Name" : "lysine methyltransferase 2C",
+		"Disease" : "Lymphoid leukaemia"
+		
+	},
+	{
+		"idProtein" : 2,
+		"Name" : "Histone-lysine N-methyltransferase 2A",
+		"Molec_function" : "histone methyltransferase activity (H3-K4 specific), identical protein binding,lysine-acetylated histone binding,minor groove of adenine-thymine-rich DNA binding, protein homodimerization activity, unmethylated CpG binding, zinc ion binding  ",
+		"Bio_proces" : "apoptotic process Source, circadian regulation of gene expression Source, embryonic hemopoiesis Source, histone H3-K4 dimethylation Source, histone H3-K4 methylation Source, histone H3-K4 monomethylation Source, histone H3-K4 trimethylation Source, histone H4-K16 acetylation Source, negative regulation of DNA methylation Source, positive regulation of histone H3-K4 methylation Source, positive regulation of transcription, DNA-templated Source, positive regulation of transcription by RNA polymerase II Source, positive regulation of transporter activity Source, protein-containing complex assembly Source: UniProtKB, regulation of hematopoietic stem cell differentiation Source, regulation of histone H3-K14 acetylation Source, regulation of histone H3-K9 acetylation Source, regulation of megakaryocyte differentiation Source",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q03164.fasta",
+		"Proteome" : "Chromosome 11",
+		"Gen_Symbol" : "KMT2A",
+		"Gen_Name" : "lysine methyltransferase 2A",
+		"Disease" : "Lymphoid leukaemia"
+	
+	},
+	{
+		"idProtein" : 3,
+		"Name" : "Breakpoint cluster region protein",
+		"Molec_function" : "ATP binding Source, enzyme binding Source, GTPase activator activity Source, guanyl-nucleotide exchange factor activity Source, protein serine/threonine kinase activity Source, protein serine kinase activity Source, protein threonine kinase activity Source",
+		"Bio_proces" : "activation of GTPase activity Source, focal adhesion assembly Source, keratinocyte differentiation Source, modulation of chemical synaptic transmission Source, platelet-derived growth factor receptor signaling pathway Source, protein autophosphorylation Source, protein phosphorylation Source, regulation of Rho protein signal transduction Source ,regulation of small GTPase mediated signal transduction Source, signal transduction Source, small GTPase mediated signal transduction",
+		"Sequence" : "https://www.uniprot.org/uniprot/P11274.fasta",
+		"Proteome" : "Chromosome 22",
+		"Gen_Symbol" : "BCR",
+		"Gen_Name" : "BCR activator of RhoGEF and GTPase",
+		"Disease" : "Lymphoid leukaemia"
+		
+	},
+	{
+		"idProtein" : 4,
+		"Name" : "Histone-lysine N-methyltransferase 2A",
+		"Molec_function" : "histone methyltransferase activity (H3-K4 specific), identical protein binding,lysine-acetylated histone binding,minor groove of adenine-thymine-rich DNA binding, protein homodimerization activity, unmethylated CpG binding, zinc ion binding  ",
+		"Bio_proces" : "apoptotic process Source, circadian regulation of gene expression Source, embryonic hemopoiesis Source, histone H3-K4 dimethylation Source, histone H3-K4 methylation Source, histone H3-K4 monomethylation Source, histone H3-K4 trimethylation Source, histone H4-K16 acetylation Source, negative regulation of DNA methylation Source, positive regulation of histone H3-K4 methylation Source, positive regulation of transcription, DNA-templated Source, positive regulation of transcription by RNA polymerase II Source, positive regulation of transporter activity Source, protein-containing complex assembly Source: UniProtKB, regulation of hematopoietic stem cell differentiation Source, regulation of histone H3-K14 acetylation Source, regulation of histone H3-K9 acetylation Source, regulation of megakaryocyte differentiation Source",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q03164.fasta",
+		"Proteome" : "Chromosome 11",
+		"Gen_Symbol" : "KMT2A",
+		"Gen_Name" : "lysine methyltransferase 2A",
+		"Disease" : "Myeloid leukaemia"
+		
+	},
+	{
+		"idProtein" : 5,
+		"Name" : "Runt-related transcription factor 1",
+		"Molec_function" : "ATP binding Source,calcium ion binding Source, DNA binding Source, DNA-binding transcription activator activity, RNA polymerase II-specific Source, DNA-binding transcription factor activity Source, DNA-binding transcription factor activity, RNA polymerase II-specific Source, prot,in heterodimerization activity Source, protein homodimerization activity Source, RNA polymerase II cis-regulatory region sequence-specific DNA binding Source, RNA polymerase II transcription regulatory region sequence-specific DNA binding Sourcetra, scription factor binding Source, transcription regulatory region sequence-specific DNA binding",
+		"Bio_proces" : "cardiac muscle tissue regeneration Source, chondrocyte differentiation Source, hematopoietic stem cell proliferation Source, hemopoiesis Source, myeloid cell differentiation Source, myeloid leukocyte differentiation Source, negative regulation of CD4-positive, alpha-beta T cell differentiation Source, negative regulation of gene expression Source, negative regulation of granulocyte differentiation Source, negative regulation of transcription by RNA polymerase II Source, neuron differentiation Source, ossification Source, peripheral nervous system neuron development Source, positive regulation of angiogenesis Source, positive regulation of CD8-positive, alpha-beta T cell differentiation Source, positive regulation of collagen biosynthetic process Source, positive regulation of extracellular matrix organization Source, positive regulation of granulocyte differentiation Source, positive regulation of interleukin-2 production Source, positive regulation of transcription, DNA-templated Source, positive regulation of transcription by RNA polymerase II Source, regulation of B cell receptor signaling pathway Source, regulation of bicellular tight junction assembly Source, regulation of cardiac muscle cell proliferation Source, regulation of cell differentiation Source, regulation of connective tissue replacement Source, regulation of cytokine-mediated signaling pathway Source, regulation of hematopoietic stem cell differentiation Source, regulation of intracellular estrogen receptor signaling pathway Source, regulation of keratinocyte differentiation Source, regulation of megakaryocyte differentiation Source, regulation of myeloid cell differentiation Source, regulation of plasminogen activation Source, regulation of regulatory T cell differentiation Source,regulation of transcription by RNA polymerase II Source,regulation of Wnt signaling pathway",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q01196.fasta",
+		"Proteome" : "Chromosome 21",
+		"Gen_Symbol" : "RUNX1",
+		"Gen_Name" : "RUNX family transcription factor 1",
+		"Disease" : "Myeloid leukaemia"
+		
+	},
+	{
+		"idProtein" : 6,
+		"Name" : "Protein CBFA2T2",
+		"Molec_function" : "metal ion binding, transcription corepressor activity",
+		"Bio_proces" : "intestinal epithelial cell differentiation Source, negative regulation of neuron projection development Source, negative regulation of Notch signaling pathway Source, negative regulation of transcription, DNA-templated Source, negative regulation of transcription by RNA polymerase II Source, positive regulation of neuron projection development Source, transcription, DNA-templated",
+		"Sequence" : "https://www.uniprot.org/uniprot/O43439.fasta",
+		"Proteome" : "Chromosome 20",
+		"Gen_Symbol" : "CBFA2T2",
+		"Gen_Name" : "CBFA2/RUNX1 partner transcriptional co-repressor 2",
+		"Disease" : "Myeloid leukaemia"
+		
+	},
+	{
+		"idProtein" : 7,
+		"Name" : "Histone acetyltransferase KAT6A",
+		"Molec_function" : "acetyltransferase activity Source, DNA binding Source, histone acetyltransferase activity Source, histone binding Source, transcription coactivator activity Source, transcription coregulator activity Source, transcription factor binding Source, zinc ion binding",
+		"Bio_proces" : "cellular senescence Source, DNA packaging Source, histone acetylation Source, histone H3 acetylation Source, myeloid cell differentiation Source, negative regulation of transcription, DNA-templated Source, nucleosome assembly Source, positive regulation of transcription, DNA-templated Source, positive regulation of transcription by RNA polymerase II Source, protein acetylation Source, regulation of signal transduction by p53 class mediator",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q92794.fasta",
+		"Proteome" : "Chromosome 8",
+		"Gen_Symbol" : "KAT6A",
+		"Gen_Name" : "lysine acetyltransferase 6A",
+		"Disease" : "Monocytic leukaemia"
+		
+	},
+	{
+		"idProtein" : 7,
+		"Name" : "Bromodomain-containing protein 1",
+		"Molec_function" : "histone binding, metal ion binding",
+		"Bio_proces" : "erythrocyte maturation Source, histone H3 acetylation Source, histone H3-K14 acetylation Source, histone H3-K23 acetylation Source, positive regulation of erythrocyte differentiation Source, response to electrical stimulus Source, response to immobilization stress",
+		"Sequence" : "https://www.uniprot.org/uniprot/O95696.fasta",
+		"Proteome" : "Chromosome 22",
+		"Gen_Symbol" : "BRD1",
+		"Gen_Name" : "bromodomain containing 1",
+		"Disease" : "Monocytic leukaemia"
+		
+	},
+	{
+		"idProtein" : 8,
+		"Name" : "Runt-related transcription factor 1",
+		"Molec_function" : "ATP binding Source,calcium ion binding Source, DNA binding Source, DNA-binding transcription activator activity, RNA polymerase II-specific Source, DNA-binding transcription factor activity Source, DNA-binding transcription factor activity, RNA polymerase II-specific Source, prot,in heterodimerization activity Source, protein homodimerization activity Source, RNA polymerase II cis-regulatory region sequence-specific DNA binding Source, RNA polymerase II transcription regulatory region sequence-specific DNA binding Sourcetra, scription factor binding Source, transcription regulatory region sequence-specific DNA binding",
+		"Bio_proces" : "cardiac muscle tissue regeneration Source, chondrocyte differentiation Source, hematopoietic stem cell proliferation Source, hemopoiesis Source, myeloid cell differentiation Source, myeloid leukocyte differentiation Source, negative regulation of CD4-positive, alpha-beta T cell differentiation Source, negative regulation of gene expression Source, negative regulation of granulocyte differentiation Source, negative regulation of transcription by RNA polymerase II Source, neuron differentiation Source, ossification Source, peripheral nervous system neuron development Source, positive regulation of angiogenesis Source, positive regulation of CD8-positive, alpha-beta T cell differentiation Source, positive regulation of collagen biosynthetic process Source, positive regulation of extracellular matrix organization Source, positive regulation of granulocyte differentiation Source, positive regulation of interleukin-2 production Source, positive regulation of transcription, DNA-templated Source, positive regulation of transcription by RNA polymerase II Source, regulation of B cell receptor signaling pathway Source, regulation of bicellular tight junction assembly Source, regulation of cardiac muscle cell proliferation Source, regulation of cell differentiation Source, regulation of connective tissue replacement Source, regulation of cytokine-mediated signaling pathway Source, regulation of hematopoietic stem cell differentiation Source, regulation of intracellular estrogen receptor signaling pathway Source, regulation of keratinocyte differentiation Source, regulation of megakaryocyte differentiation Source, regulation of myeloid cell differentiation Source, regulation of plasminogen activation Source, regulation of regulatory T cell differentiation Source,regulation of transcription by RNA polymerase II Source,regulation of Wnt signaling pathway",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q01196.fasta",
+		"Proteome" : "Chromosome 21",
+		"Gen_Symbol" : "RUNX1",
+		"Gen_Name" : "RUNX family transcription factor 1",
+		"Disease" : "Monocytic leukaemia"
+		
+	},
+	{
+		"idProtein" : 8,
+		"Name" : "Transmembrane protease serine 6",
+		"Molec_function" : "serine-type endopeptidase activity",
+		"Bio_proces" : "cellular iron ion homeostasis Source, collagen catabolic process Source, extracellular matrix disassembly Source, iron ion homeostasis Source, membrane protein proteolysis Source, negative regulation of BMP signaling pathway Source, negative regulation of transcription, DNA-templated Source, negative regulation of transcription by RNA polymerase II Source, positive regulation of transcription by RNA polymerase II Source, self proteolysis",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q8IU80.fasta",
+		"Proteome" : "Chromosome 22",
+		"Gen_Symbol" : "TMPRSS6",
+		"Gen_Name" : "transmembrane serine protease 6",
+		"Disease" : "Iron deficiency anaemia"
+		
+	},
+	{
+		"idProtein" : 9,
+		"Name" : "Cytochrome c oxidase subunit 1",
+		"Molec_function" : "cytochrome-c oxidase activity, heme binding, metal ion binding",
+		"Bio_proces" : "aerobic respiration Source, aging Source, cerebellum development Source, electron transport coupled proton transport Source, mitochondrial electron transport, cytochrome c to oxygen Source, respiratory electron transport chain Source, response to copper ion Source, response to electrical stimulus Source, response to oxidative stress",
+		"Sequence" : "https://www.uniprot.org/uniprot/P00395.fasta",
+		"Proteome" : "Mitochondrion",
+		"Gen_Symbol" : "MT-CO1",
+		"Gen_Name" : "mitochondrially encoded cytochrome c oxidase I",
+		"Disease" : "Iron deficiency anaemia"
+		
+	},
+	{
+		"idProtein" : 10,
+		"Name" : "Glutaredoxin-related protein 5, mitochondrial",
+		"Molec_function" : "2 iron, 2 sulfur cluster binding Source, metal ion binding Source, protein disulfide oxidoreductase activity",
+		"Bio_proces" : "[2Fe-2S] cluster assembly Source, hemopoiesis Source, iron-sulfur cluster assembly Source, protein maturation by [2Fe-2S] cluster transfer Source, protein maturation by [4Fe-4S] cluster transfer",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q86SX6.fasta",
+		"Proteome" : "Chromosome 14",
+		"Gen_Symbol" : "GLRX5",
+		"Gen_Name" : "glutaredoxin 5",
+		"Disease" : "Iron deficiency anaemia"
+		
+	},
+	{
+		"idProtein" : 11,
+		"Name" : "Cubilin",
+		"Molec_function" : "calcium ion binding Source, cargo receptor activity Source, cobalamin binding Source, protein homodimerization activity Source, signaling receptor activity",
+		"Bio_proces" : "cholesterol metabolic process Source,cobalamin metabolic process Source, cobalamin transport Source, high-density lipoprotein particle clearance Source, lipoprotein transport Source, receptor-mediated endocytosis Source, response to bacterium Source, tissue homeostasis Source, vitamin D metabolic process",
+		"Sequence" : "https://www.uniprot.org/uniprot/O60494.fasta",
+		"Proteome" : "Chromosome 10",
+		"Gen_Symbol" : "CUBN",
+		"Gen_Name" : "cubilin",
+		"Disease" : "Vitamin B12 deficiency anaemia"
+		
+	},
+	{
+		"idProtein" : 12,
+		"Name" : "Methionine synthase",
+		"Molec_function" : "cobalamin binding Source, methionine synthase activity Source, zinc ion binding",
+		"Bio_proces" : "axon regeneration Source,cellular response to nitric oxide Source ,cobalamin metabolic process Source, methionine biosynthetic process Source, methylation Source, nervous system development Source, pteridine-containing compound metabolic process Source, response to axon injury Source, sulfur amino acid metabolic process",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q99707.fasta",
+		"Proteome" : "Chromosome 1",
+		"Gen_Symbol" : "MTR",
+		"Gen_Name" : "5-methyltetrahydrofolate-homocysteine methyltransferase",
+		"Disease" : "Vitamin B12 deficiency anaemia"
+		
+	},
+	{
+		"idProtein" : 13,
+		"Name" : "Cobalamin binding intrinsic factor",
+		"Molec_function" : "cobalamin binding",
+		"Bio_proces" : "cobalamin metabolic process Source, cobalamin transport Source, cobalt ion transport",
+		"Sequence" : "https://www.uniprot.org/uniprot/P27352.fasta",
+		"Proteome" : "Chromosome 11",
+		"Gen_Symbol" : "CBLIF",
+		"Gen_Name" : "cobalamin binding intrinsic factor",
+		"Disease" : "Vitamin B12 deficiency anaemia"
+		
+	},
+	{
+		"idProtein" : 14,
+		"Name" : "Proton-coupled folate transporter",
+		"Molec_function" : "folic acid binding, folic acid transmembrane transporter activity",
+		"Bio_proces" : "cellular iron ion homeostasis, folate import across plasma membrane",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q96NT5.fasta",
+		"Proteome" : "Chromosome 17",
+		"Gen_Symbol" : "SLC46A1",
+		"Gen_Name" : "solute carrier family 46 member 1",
+		"Disease" : "Folate deficiency anaemia"
+		
+	},
+	{
+		"idProtein" : 15,
+		"Name" : "Dihydrofolate reductase",
+		"Molec_function" : "dihydrofolate reductase activity,drug binding",
+		"Bio_proces" : "axon regeneration, dihydrofolate metabolic process",
+		"Sequence" : "https://www.uniprot.org/uniprot/P00374.fasta",
+		"Proteome" : "Chromosome 5",
+		"Gen_Symbol" : "DHFR",
+		"Gen_Name" : "dihydrofolate reductase",
+		"Disease" : "Folate deficiency anaemia"
+	
+	},
+	{
+		"idProtein" : 16,
+		"Name" : "Methionine synthase reductase",
+		"Molec_function" : "[methionine synthase] reductase activity,aquacobalamin reductase (NADPH) activity",
+		"Bio_proces" : "cobalamin metabolic process,DNA methylation",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q9UBK8.fasta",
+		"Proteome" : "Chromosome 5",
+		"Gen_Symbol" : "MTRR",
+		"Gen_Name" : "5-methyltetrahydrofolate-homocysteine methyltransferase reductase",
+		"Disease" : "Folate deficiency anaemia"
+		
+	},
+	{
+		"idProtein" : 19,
+		"Name" : "Hereditary hemochromatosis protein",
+		"Molec_function" : "beta-2-microglobulin binding, co-receptor binding",
+		"Bio_proces" : "acute-phase response, BMP signaling pathway",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q30201.fasta",
+		"Proteome" : "Chromosome 6",
+		"Gen_Symbol" : "HFE",
+		"Gen_Name" : "homeostatic iron regulator",
+		"Disease" : "Hereditary factor VIII deficiency"
+		
+	},
+	{
+		"idProtein" : 20,
+		"Name" : "A disintegrin and metalloproteinase with thrombospondin motifs 13",
+		"Molec_function" : "calcium ion binding,integrin binding",
+		"Bio_proces" : "cell-matrix adhesion, cellular response to interferon-gamma",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q76LX8.fasta",
+		"Proteome" : "Chromosome 9",
+		"Gen_Symbol" : "ADAMTS13",
+		"Gen_Name" : "ADAM metallopeptidase with thrombospondin type 1 motif 13",
+		"Disease" : "Hereditary factor VIII deficiency"
+		
+	},
+	{
+		"idProtein" : 21,
+		"Name" : "von Willebrand factor",
+		"Molec_function" : "chaperone binding, collagen binding",
+		"Bio_proces" : "blood coagulation, blood coagulation, intrinsic pathway",
+		"Sequence" : "https://www.uniprot.org/uniprot/P04275.fasta",
+		"Proteome" : "Chromosome 12",
+		"Gen_Symbol" : "VWF",
+		"Gen_Name" : "von Willebrand factor",
+		"Disease" : "Hereditary factor VIII deficiency"
+		
+	},
+	{
+		"idProtein" : 22,
+		"Name" : "Hereditary hemochromatosis protein",
+		"Molec_function" : "beta-2-microglobulin binding, co-receptor binding",
+		"Bio_proces" : "acute-phase response, BMP signaling pathway",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q30201.fasta",
+		"Proteome" : "Chromosome 6",
+		"Gen_Symbol" : "HFE",
+		"Gen_Name" : "homeostatic iron regulator",
+		"Disease" : "Hereditary factor IX deficiency"
+		
+	},
+	{
+		"idProtein" : 23,
+		"Name" : "Glucose-6-phosphate isomerase",
+		"Molec_function" : "cytokine activity, glucose-6-phosphate isomerase activity",
+		"Bio_proces" : "canonical glycolysis, carbohydrate metabolic process",
+		"Sequence" : "https://www.uniprot.org/uniprot/P06744.fasta",
+		"Proteome" : "Chromosome 19",
+		"Gen_Symbol" : "GPI",
+		"Gen_Name" : "glucose-6-phosphate isomerase",
+		"Disease" : "Hereditary factor IX deficiency"
+	
+	},
+	{
+		"idProtein" : 24,
+		"Name" : "A disintegrin and metalloproteinase with thrombospondin motifs 13",
+		"Molec_function" : "calcium ion binding,integrin binding",
+		"Bio_proces" : "cell-matrix adhesion, cellular response to interferon-gamma",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q76LX8.fasta",
+		"Proteome" : "Chromosome 9",
+		"Gen_Symbol" : "ADAMTS13",
+		"Gen_Name" : "ADAM metallopeptidase with thrombospondin type 1 motif 13",
+		"Disease" : "Hereditary factor IX deficiency"
+		
+	},
+	{
+		"idProtein" : 25,
+		"Name" : "B-cell lymphoma 6 protein",
+		"Molec_function" : "chromatin binding, chromatin DNA binding",
+		"Bio_proces" : "actin cytoskeleton organization, B cell differentiation",
+		"Sequence" : "https://www.uniprot.org/uniprot/P41182.fasta",
+		"Proteome" : "Chromosome 3",
+		"Gen_Symbol" : "BCL6",
+		"Gen_Name" : "BCL6 transcription repressor",
+		"Disease" : "Hodgkin lymphoma"
+	
+	},
+	{
+		"idProtein" : 26,
+		"Name" : "B-cell lymphoma/leukemia 10",
+		"Molec_function" : "CARD domain binding, enzyme binding",
+		"Bio_proces" : "adaptive immune response, B cell apoptotic process",
+		"Sequence" : "https://www.uniprot.org/uniprot/O95999.fasta",
+		"Proteome" : "Chromosome 1",
+		"Gen_Symbol" : "BCL10",
+		"Gen_Name" : "BCL10 immune signaling adaptor",
+		"Disease" : "Hodgkin lymphoma"
+		
+	},
+	{
+		"idProtein" : 27,
+		"Name" : "B-cell lymphoma 6 protein",
+		"Molec_function" : "chromatin binding, chromatin DNA binding",
+		"Bio_proces" : "actin cytoskeleton organization, B cell differentiation",
+		"Sequence" : "https://www.uniprot.org/uniprot/P41182.fasta",
+		"Proteome" : "Chromosome 3",
+		"Gen_Symbol" : "BCL10",
+		"Gen_Name" : "BCL10 immune signaling adaptor",
+		"Disease" : "Follicular lymphoma"
+		
+	},
+	{
+		"idProtein" : 27,
+		"Name" : "ALK tyrosine kinase receptor",
+		"Molec_function" : "ATP binding, identical protein binding",
+		"Bio_proces" : "activation of MAPK activity, adult behavior",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q9UM73.fasta",
+		"Proteome" : "Chromosome 2",
+		"Gen_Symbol" : "ALK",
+		"Gen_Name" : "ALK receptor tyrosine kinase",
+		"Disease" : "Hodgkin lymphoma"
+		
+	},
+	{
+		"idProtein" : 28,
+		"Name" : "B-cell lymphoma/leukemia 10",
+		"Molec_function" : "CARD domain binding, enzyme binding",
+		"Bio_proces" : "adaptive immune response, B cell apoptotic process",
+		"Sequence" : "https://www.uniprot.org/uniprot/O95999.fasta",
+		"Proteome" : "Chromosome 1",
+		"Gen_Symbol" : "BCL10",
+		"Gen_Name" : "BCL10 immune signaling adaptor",
+		"Disease" : "Follicular lymphoma"
+		
+	},
+	{
+		"idProtein" : 28,
+		"Name" : "3-ketodihydrosphingosine reductase",
+		"Molec_function" : "3-dehydrosphinganine reductase activity",
+		"Bio_proces" : "3-keto-sphinganine metabolic process, sphingolipid biosynthetic process",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q06136.fasta",
+		"Proteome" : "Chromosome 18",
+		"Gen_Symbol" : "KDSR",
+		"Gen_Name" : "3-ketodihydrosphingosine reductase",
+		"Disease" : "Follicular lymphoma"
+		
+	},
+	{
+		"idProtein" : 29,
+		"Name" : "Histone-lysine N-methyltransferase EZH2",
+		"Molec_function" : "chromatin binding, chromatin DNA binding, histone-lysine N-methyltransferase activity",
+		"Bio_proces" : "B cell differentiation, cardiac muscle hypertrophy in response to stress",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q15910.fasta",
+		"Proteome" : "Chromosome 7",
+		"Gen_Symbol" : "EZH2",
+		"Gen_Name" : "enhancer of zeste 2 polycomb repressive complex 2 subunit",
+		"Disease" : "Non-follicular lymphoma"
+		
+	},
+	{
+		"idProtein" : 30,
+		"Name" : "B-cell lymphoma 6 protein",
+		"Molec_function" : "chromatin binding, chromatin DNA binding",
+		"Bio_proces" : "actin cytoskeleton organization, B cell differentiation",
+		"Sequence" : "https://www.uniprot.org/uniprot/P41182.fasta",
+		"Proteome" : "Chromosome 3",
+		"Gen_Symbol" : "BCL6",
+		"Gen_Name" : "BCL6 transcription repressor",
+		"Disease" : "Non-follicular lymphoma"
+		
+	},
+	{
+		"idProtein" : 31,
+		"Name" : "B-cell lymphoma/leukemia 10",
+		"Molec_function" : "CARD domain binding, enzyme binding",
+		"Bio_proces" : "adaptive immune response, B cell apoptotic process",
+		"Sequence" : "https://www.uniprot.org/uniprot/O95999.fasta",
+		"Proteome" : "Chromosome 1",
+		"Gen_Symbol" : "BCL10",
+		"Gen_Name" : "BCL10 immune signaling adaptor",
+		"Disease" : "Non-follicular lymphoma"
+		
+	},
+	{
+		"idProtein" : 32,
+		"Name" : "Histone-lysine N-methyltransferase NSD2",
+		"Molec_function" : "chromatin binding, histone methyltransferase activity (H3-K36 specific)",
+		"Bio_proces" : "atrial septum primum morphogenesis, atrial septum secundum morphogenesis",
+		"Sequence" : "https://www.uniprot.org/uniprot/O96028.fasta",
+		"Proteome" : "Chromosome 4",
+		"Gen_Symbol" : "NSD2",
+		"Gen_Name" : "nuclear receptor binding SET domain protein 2",
+		"Disease" : "Multiple myeloma"
+		
+	},
+	{
+		"idProtein" : 33,
+		"Name" : "Interferon regulatory factor 4",
+		"Molec_function" : "DNA-binding transcription activator activity, RNA polymerase II-specific, DNA-binding transcription factor activity",
+		"Bio_proces" : "cytokine-mediated signaling pathway, defense response to protozoan",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q15306.fasta",
+		"Proteome" : "Chromosome 6",
+		"Gen_Symbol" : "IRF4",
+		"Gen_Name" : "interferon regulatory factor 4",
+		"Disease" : "Multiple myeloma"
+		
+	},
+	{
+		"idProtein" : 34,
+		"Name" : "Multiple myeloma tumor-associated protein 2",
+		"Molec_function" : "RNA binding",
+		"Bio_proces" : "neutrophil degranulation",
+		"Sequence" : "https://www.uniprot.org/uniprot/Q9BU76.fasta",
+		"Proteome" : "Chromosome 1",
+		"Gen_Symbol" : "MMTAG2",
+		"Gen_Name" : "chromosome 1 open reading frame 35",
+		"Disease" : "Multiple myeloma"
+		
+	},
+	{
+		"idProtein" : 35,
+		"Name" : "Erythroid transcription factor",
+		"Molec_function" : "C2H2 zinc finger domain binding, chromatin DNA binding",
+		"Bio_proces" : "basophil differentiation,blood coagulation",
+		"Sequence" : "https://www.uniprot.org/uniprot/P15976.fasta",
+		"Proteome" : "Chromosome X",
+		"Gen_Symbol" : "GATA1",
+		"Gen_Name" : "GATA binding protein 1",
+		"Disease" : "Thrombocytopenia"
+	
+	},
+	{
+		"idProtein" : 36,
+		"Name" : "Wiskott-Aldrich syndrome protein",
+		"Molec_function" : "actin binding, GTPase regulator activity",
+		"Bio_proces" : "actin filament-based movement, actin filament polymerization",
+		"Sequence" : "https://www.uniprot.org/uniprot/P42768.fasta",
+		"Proteome" : "Chromosome X",
+		"Gen_Symbol" : "WAS",
+		"Gen_Name" : "WASP actin nucleation promoting factor",
+		"Disease" : "Thrombocytopenia"
+		
+	},
+	{
+		"idProtein" : 37,
+		"Name" : "Integrin beta-3",
+		"Molec_function" : "cell adhesion molecule binding, coreceptor activity",
+		"Bio_proces" : "activation of protein kinase activity, angiogenesis involved in wound healing",
+		"Sequence" : "https://www.uniprot.org/uniprot/P05106.fasta",
+		"Proteome" : "Chromosome 17",
+		"Gen_Symbol" : "ITGB3",
+		"Gen_Name" : "integrin subunit beta 3",
+		"Disease" : "Thrombocytopenia"
+		
+	}
+]
